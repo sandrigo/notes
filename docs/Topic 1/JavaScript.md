@@ -1,6 +1,6 @@
 # JavaScript
 
-Web: https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=de
+Web: [https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=de](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=de)
 
 ## Beschreibung
 
