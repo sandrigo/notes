@@ -1,6 +1,7 @@
-# Obsidian Notes
+# Welcome to sandrigos notes!
 
-Publish your public notes with MkDocs
+A small online note-space, digital garden, call it what you want!
+Here i curate my, mostly german, [[Obsidian]] notes using mkDocs, GitHub and GitHub-Pages!
 
 ## Hello World!
 
