@@ -1,3 +1,7 @@
+---
+share: true
+cat: web development
+---
 # Angular
 
 Web: [https://angular.io](https://angular.io)

@@ -1,3 +1,7 @@
+---
+share: true
+cat: web development
+---
 # JavaScript
 
 Web: [https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=de](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=de)
