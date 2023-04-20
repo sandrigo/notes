@@ -1,3 +1,7 @@
+---
+share: true
+cat: projects
+---
 # pillbuddy
 
 ## GitHub
@@ -14,9 +18,6 @@ git clone https://github.com/sandrigo/pillbuddy.git
 - [[Ionic]] v7 
 - [[Firebase]]
 - [[GitHub]]
-
-
-
 
 ## Features
 - Eingabe von Medikament, Anzahl Tabletten, Auswahl von Tagen der Einnahme, Anzahl der Tabletten zur Einnahme
