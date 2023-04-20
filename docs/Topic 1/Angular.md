@@ -1,6 +1,6 @@
 # Angular
 
-Web: https://angular.io
+Web: [https://angular.io](https://angular.io)
 
 ## Beschreibung
 
