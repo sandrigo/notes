@@ -30,6 +30,7 @@ Ein typisches Ionic Angular-Projekt besteht aus verschiedenen Ordnern und Dateie
 ### Projekt Dateistruktur 
 Beispiel für einen Dateibaum eines Standard-Ionic-Angular-Projekts 
 
+```
 myApp/
 ├── src/
 │   ├── app/
@@ -56,7 +57,7 @@ myApp/
 ├── tsconfig.app.json
 ├── tsconfig.json
 └── tslint.json
-
+```
 ## Doku
 [Ionic Dokumentation](https://ionicframework.com/docs/)
 ## Links
