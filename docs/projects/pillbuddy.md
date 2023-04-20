@@ -1,9 +1,8 @@
 # pillbuddy
 
 ## GitHub
-```
-https://github.com/sandrigo/pillbuddy
-```
+
+[https://github.com/sandrigo/pillbuddy](https://github.com/sandrigo/pillbuddy)
 
 ```
 git clone https://github.com/sandrigo/pillbuddy.git
