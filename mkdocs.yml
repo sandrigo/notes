@@ -4,10 +4,8 @@ theme:
     name: 'material'
     palette:
     features:
-      - navigation.tabs
-
-repo_url: https://github.com/sandrigo/notes
-
+    - navigation.tabs
+    
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -61,4 +59,4 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
