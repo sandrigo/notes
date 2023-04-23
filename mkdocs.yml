@@ -3,9 +3,6 @@ site_name: sandrigos notes
 theme:
     name: 'material'
     palette:
-    features:
-    - navigation.tabs
-    
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -23,6 +20,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    - features:
+      - navigation.tabs
 
 # Extensions
 markdown_extensions:
