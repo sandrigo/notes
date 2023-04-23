@@ -1,17 +1,19 @@
 site_name: sandrigos notes
-nav:
-    - Home: '../'
-    - 'User Guide': 'user-guide.md'
-    - 'Bug Tracker': '/bugs/'
+
 theme:
     name: 'material'
     palette:
+    features:
+        - navigation.tabs
+
+repo_url: https://github.com/sandrigo/notes
+   
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
-      accent: indigo
+      primary: green
+      accent: lime
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -19,8 +21,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: green
+      accent: lime
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
