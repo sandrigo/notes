@@ -1,5 +1,5 @@
 site_name: sandrigos notes
-
+repo_url: https://github.com/sandrigo/notes
 theme:
     name: 'material'
     palette:
@@ -22,6 +22,7 @@ theme:
         name: Switch to light mode
     - features:
       - navigation.tabs
+      - navigation.tabs.sticky
 
 # Extensions
 markdown_extensions:
