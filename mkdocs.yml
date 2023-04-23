@@ -1,5 +1,8 @@
 site_name: sandrigos notes
-
+nav:
+    - Home: '../'
+    - 'User Guide': 'user-guide.md'
+    - 'Bug Tracker': '/bugs/'
 theme:
     name: 'material'
     palette:
