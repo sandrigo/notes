@@ -20,4 +20,5 @@ cat: useful
 ## Video
 - [Syntesia](https://www.synthesia.io) - erzeugt Videos aus Text - kostenpflichtig
 - [Kaiber](https://www.kaiber.ai) - Videogenerierung
+- [Summarize.tech](https://www.summarize.tech) - Fasst (am besten englische) Youtube Videos zusammen
 
