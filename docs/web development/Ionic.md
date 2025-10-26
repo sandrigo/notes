@@ -8,14 +8,14 @@ Web: https://ionicframework.com
 
 ## Beschreibung
 ### Zusammenfassung 
-Ionic ist ein Open-Source [[JavaScript]]-Framework zum Erstellen von plattformübergreifenden mobilen Anwendungen. Es basiert auf [[Angular]] und bietet eine breite Palette von UI-Komponenten und Werkzeugen, um schöne und reaktionsfähige mobile Apps zu erstellen.
+Ionic ist ein Open-Source [[JavaScript|JavaScript]]-Framework zum Erstellen von plattformübergreifenden mobilen Anwendungen. Es basiert auf [[Angular|Angular]] und bietet eine breite Palette von UI-Komponenten und Werkzeugen, um schöne und reaktionsfähige mobile Apps zu erstellen.
 
-Ionic und [[Angular]] werden häufig zusammen verwendet, um plattformübergreifende Anwendungen zu erstellen. Ionic bietet eine Reihe von UI-Komponenten und Werkzeugen, während [[Angular]] ein robustes Framework für die Erstellung dynamischer Webanwendungen bereitstellt. Durch die Verwendung dieser beiden Frameworks können Entwickler leistungsstarke und reaktionsfähige Anwendungen erstellen, die auf einer Vielzahl von Plattformen ausgeführt werden können.
+Ionic und [[Angular|Angular]] werden häufig zusammen verwendet, um plattformübergreifende Anwendungen zu erstellen. Ionic bietet eine Reihe von UI-Komponenten und Werkzeugen, während [[Angular|Angular]] ein robustes Framework für die Erstellung dynamischer Webanwendungen bereitstellt. Durch die Verwendung dieser beiden Frameworks können Entwickler leistungsstarke und reaktionsfähige Anwendungen erstellen, die auf einer Vielzahl von Plattformen ausgeführt werden können.
 
 ### Projektbeschreibung 
 Ein typisches Ionic Angular-Projekt besteht aus verschiedenen Ordnern und Dateien. Hier sind einige wichtige Ordner und Dateien:
 
-- `src`: Dieser Ordner enthält den Quellcode der App. Hier findet der größte Teil der Arbeit für eine [[Ionic]]-App statt.
+- `src`: Dieser Ordner enthält den Quellcode der App. Hier findet der größte Teil der Arbeit für eine [[Ionic|Ionic]]-App statt.
 
   - `app`: Dieser Ordner enthält alle Dateien, die zum Starten der App benötigt werden.
 
@@ -23,7 +23,7 @@ Ein typisches Ionic Angular-Projekt besteht aus verschiedenen Ordnern und Dateie
 
     - ~~`app.module.ts`: Dies ist der Einstiegspunkt für unsere App. Es enthält das Haupt-Angular-Modul (NgModule) unserer App.~~
 
-  - `pages`: Hier befinden sich alle Seiten der App (HTML, [[JavaScript]] und [[CSS]]/SASS).
+  - `pages`: Hier befinden sich alle Seiten der App (HTML, [[JavaScript|JavaScript]] und [[CSS|CSS]]/[[SASS|SASS]]).
 
   - `theme`: Dieser Ordner enthält alle SASS-Variablen, Mixins und gemeinsam genutzten Stile.
 
