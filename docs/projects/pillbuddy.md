@@ -14,10 +14,9 @@ git clone https://github.com/sandrigo/pillbuddy.git
 
 
 ## Technologie
-- [[Angular]] v15.2.7
-- [[Ionic]] v7 
-- [[Firebase]]
-- [[GitHub]]
+- Lovable.dev
+- Claude Sonnet 4.5
+- VS Code
 
 ## Features
 - Eingabe von Medikament, Anzahl Tabletten, Auswahl von Tagen der Einnahme, Anzahl der Tabletten zur Einnahme
@@ -30,7 +29,7 @@ git clone https://github.com/sandrigo/pillbuddy.git
 
 
 ## Troubleshooting
-[[Angular]]/Firebase: https://github.com/angular]angularfire/issues/3290
+[[Angular|Angular]]/Firebase: https://github.com/angular]angularfire/issues/3290
 
 
 
