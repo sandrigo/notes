@@ -3,30 +3,44 @@ share: true
 cat: PoE
 ---
 
+## Leveling  PConcoB Pathfinder (Ranger)
 
+POB: [https://pobb.in/zumdVebmgyF-](https://pobb.in/zumdVebmgyF-)
 
-## Leaguestart
+[[#Heist Taktik ab Level 50–71| > Heist Taktik ab Level 50–71]]: Heist ab Act 10 bzw. Lvl 50 *VOR* Kitava (Resi-Penalty!)
+[[#Atlas Rush Alternative| > Atlas Rush Alternative]]: TwoStones (Eater of Worlds und Searing Exarch) für etwas Atlas Progression - Ca. Lvl 83
 
-### Leveling PoB PConcoB Pathfinder (Ranger)
-
-[https://pobb.in/zumdVebmgyF-](https://pobb.in/zumdVebmgyF-)
-
-Option A: Heist ab Act 10 *VOR* Kitava (Resi-Penalty!)
-Option B: TwoStones (Eater of Worlds und Searing Exarch) für etwas Atlas Progression - Ca. Lvl 83
+VENDOR REGEX:
+```
+-\w-.-|ts:.+(?=(\S*r){1})(?=(\S*g){3})|g-g-|-g-g|g-.-g|Runn|rint
+```
 ### Heist Swap
 
-[https://pobb.in/BrUlLRT9mah4](https://pobb.in/BrUlLRT9mah4)
+POB: [https://pobb.in/BrUlLRT9mah4](https://pobb.in/BrUlLRT9mah4)
 
 Movementspeed > Damage! ZDPS Build
 
 ### Heist Progression Endgame
 
-[https://pobb.in/R8QB5OpWhfCT](https://pobb.in/R8QB5OpWhfCT) Tides of Time Variante
-[https://pobb.in/ajoavjT6Jq5Y](https://pobb.in/ajoavjT6Jq5Y) Mageblood / Defiance of Destiny
+POB: [https://pobb.in/R8QB5OpWhfCT](https://pobb.in/R8QB5OpWhfCT) Tides of Time Variante
+POB: [https://pobb.in/ajoavjT6Jq5Y](https://pobb.in/ajoavjT6Jq5Y) Mageblood / Defiance of Destiny
 
 ### Atlas Tree für Heist/Blueprints
+[https://poeplanner.com/atlas-tree/...](https://poeplanner.com/atlas-tree/BQAUAACEAPP3Xz5jDy_JSzLruySXsvrvut6ikBcsd4a0sZ8sknkACHqEKvFUbYi4_8AqymbqeDxZIikw-pyccMb8TZMt8jiMQbLFEIBenYqCQ3XJ_R_pqLwqu9lbhqG92vMMHX3k9x8Ai-F9kfnM6PIOSqoKiDTaFJ8732MQoehraIn3XiJIrKTUjytxh53Qxtwhqc7OnGshgqe9xymNjjlZhnTSglE34wQrz0ezx_uxpAVe36LQyxchTM-Jx13RKjakxB8O-WIWhaP2dTCGGZQsSMGvOnbl7MGT1WIfd_R6cQtbHo_lAzDYm7cPwnapQ-T8tWOgccQY5DOar7roTPLEFrjZzvvpZ7nUI9_QKBQAH4sIAAAAAAAAAwMAAAAAAAAAAAA=)
 
-[https://poeplanner.com/atlas-tree/BQAUAACEAPP3Xz5jDy_JSzLruySXsvrvut6ikBcsd4a0sZ8sknkACHqEKvFUbYi4_8AqymbqeDxZIikw-pyccMb8TZMt8jiMQbLFEIBenYqCQ3XJ_R_pqLwqu9lbhqG92vMMHX3k9x8Ai-F9kfnM6PIOSqoKiDTaFJ8732MQoehraIn3XiJIrKTUjytxh53Qxtwhqc7OnGshgqe9xymNjjlZhnTSglE34wQrz0ezx_uxpAVe36LQyxchTM-Jx13RKjakxB8O-WIWhaP2dTCGGZQsSMGvOnbl7MGT1WIfd_R6cQtbHo_lAzDYm7cPwnapQ-T8tWOgccQY5DOar7roTPLEFrjZzvvpZ7nUI9_QKBQAH4sIAAAAAAAAAwMAAAAAAAAAAAA=](https://poeplanner.com/atlas-tree/BQAUAACEAPP3Xz5jDy_JSzLruySXsvrvut6ikBcsd4a0sZ8sknkACHqEKvFUbYi4_8AqymbqeDxZIikw-pyccMb8TZMt8jiMQbLFEIBenYqCQ3XJ_R_pqLwqu9lbhqG92vMMHX3k9x8Ai-F9kfnM6PIOSqoKiDTaFJ8732MQoehraIn3XiJIrKTUjytxh53Qxtwhqc7OnGshgqe9xymNjjlZhnTSglE34wQrz0ezx_uxpAVe36LQyxchTM-Jx13RKjakxB8O-WIWhaP2dTCGGZQsSMGvOnbl7MGT1WIfd_R6cQtbHo_lAzDYm7cPwnapQ-T8tWOgccQY5DOar7roTPLEFrjZzvvpZ7nUI9_QKBQAH4sIAAAAAAAAAwMAAAAAAAAAAAA=)
+Vorteil: Schnell, easy zu leveln da keine Waffe
+Nachteil: 20% Nerf in 3.27
+
+## Leveling Toxic Rain / Caustic Arrow Pathfinder (Ranger)
+
+POB: [https://pobb.in/ifBRVABpy8_f](https://pobb.in/ifBRVABpy8_f)
+Vorteil: Schnell, versatil, guter Clear, Bow Playstyle
+Nachteil: schlecht Closerange dmg, low EHP, Später schneller Dmg Falloff, ggf Manaprobleme wegen MF-Arrow
+## Alternative: Banner Champion (Duelist)
+
+POB: [https://pobb.in/8MVYTVDlW2LU](https://pobb.in/8MVYTVDlW2LU) - Toxic Rain CA bis 71, Swap zu Banner
+Vorteil: Tanky, schnell early
+Nachteil: Wenn auf Bannerstack nur Heist möglich
 ## Heist Infos
 ### Beste Blueprints:
 - Priorisiere Blueprints mit vielen Divination Card Rooms und Currency Rooms:
@@ -83,7 +97,60 @@ Movementspeed > Damage! ZDPS Build
 - *Anarchic Spiritblade*: Top für Flicker Strike, Crit, Golem-Setups
 - *Micro-distillery Belt, Mechalarm Belt, Focused Amulet*
 
-### Wertvollste Replica Items & Preise (PoE 3.26, Heist)
+## Heist Taktik ab Level 50–71
+
+- **Start mit Heist:** Sobald du Level 50–60 erreichst (meist in Akt 6), starte mit Contracts („Heist contracts“), idealerweise bevor du Kitava tötest (der Resist-Verlust ist sonst ärgerlich).
+- **Contract Farming:**
+  - Kaufe im Heist-Shop bis Level 71 regelmäßig Contracts. Shop Contracts sind bis Level 67 relevant.
+  - Halte die Differenz zwischen Contract Level und deinem Level ≤5, damit du maximal viele Reveals bekommst.
+  - Ab Level 72 gibt’s keine shopbaren Contracts mehr – dann brauchst du Trade oder Map-Drops.
+
+- **Rogue Unlocks & Job Speed:**
+  - Schalte alle Rogues früh frei für sämtliche Job Types („Perception“, „Lockpicking“, „Deception“ usw.), damit du alle Räume sprinten kannst.
+  - Gear für Rogues am besten per Harvest Crafting mit „Speed Reforge“ herstellen, um die Job Speed auf Maximum zu pushen.
+
+- **Loot Filter Setup:**
+  - Strengen Heist-Filter (z. B. FilterBlade) nutzen; Rogue Equipment darf nicht weggefiltert sein, sonst verpasst du wichtige Upgrades!
+  - Filter rechtzeitig exportieren und im Client laden.
+
+- **Tag-1 Strategie:**
+  - Fokussiere dich am Anfang auf **Deception contracts** – schnell und einfach Currency.
+  - Öffne vorrangig Räume mit *Currency*, *Jewelry* und *Stacked Deck* rewards.
+  - Gem rooms lohnen nur early für Gemcutter’s Prism (GCP), später nicht mehr.
+  - Korridor-Kisten ignorieren und nur interessante Chests mitnehmen.
+
+- **Economy/Progression:**
+  - Die ersten Chaos in Gear mit hoher Speed/Defense investieren.
+  - Ziel: So schnell wie möglich Level 83 Blueprints mit vollen Reveals laufen – dort generierst du wirklich Currency!
+  - Blueprint Supplies mit Contracts auffrischen, falls nötig.
+
+- **Blueprint Splitting:**
+  - Blueprint nur splitten (Beastcraft) wenn komplett revealed und Split günstiger als ein Full Reveal ist. - *Problem mit ZDPS Build kann man das Beast nicht töten!*
+  - Ansonsten Fossil-Crafting! Teurer, wenig verfügbar im Markt anfangs
+
+### Atlas Rush Alternative
+
+- **Mapping als Currency-Quelle:** Falls du lieber Maps als puren Heist grindest, empfiehlt sich *Lightning Arrow Deadeye* oder *Poisonous Concoction Pathfinder* als Speed-Builds.
+
+- **Atlas Passive Tree:**
+  - Fokus auf Shrines, Map-Drops und Heist nodes für Progress + Blueprint Supply.
+  - Scarab nodes, Ritual nodes und evtl. Legion für BodyArmour (6-links) und Awakened Gems. 
+  - Atlas Tree Early mit Legion: [[https://poeplanner.com...](](https://poeplanner.com/atlas-tree/BQAUAACCAIfUUIYPgWXyBPMCtmMPL8lM9QBIHtey-uUxt-XUSe-6kBds8yx3CENMZIa0LJIRhHkAwe6EKmSA_sVtiMpmPFkhYHDGky2Ug4zktWal2s4AXp2Kgs5aQ3XJ_R_pTLqN6msxk_L8-iq7fR7Mtx19fZH5zM013v6fO6Y0TdfXKyJIZ2AqEntg1I-HnS373CGpzuwPzpy12GshgqeKJojoRTpmMAQrAPmzxxkKpXPiDk4botAE_MsXxSHRKhdQxB-wSBN9DvmFo_Z1DjAsSBiLwa8LccF0wZM4xvR6fW2P5QMwiAczxl7T1WnCdtlcqUO1Y2Yf5DNvtZm5uNnO-1yl6WfQKCbmFAAfiwgAAAAAAAADAwAAAAAAAAAAAA==)
+
+- **Endgame Mapping:**
+  - Später umskillen auf Boss Rush, Destructive Play, Maven runs für teure Drops.
+  - Unerwünschte Mechanics blocken, Scarab-Drops maximieren und ggf. auf den Markt reagieren.
+  - Atlas Tree mit Destructive Play: [https://poeplanner.com/atlas-tree..](https://poeplanner.com/atlas-tree/BQAUAACEAIfU8_dQhl8-BPNjD8pJL8lLMkz1AEiy-rfl1EnvupAXLHeGtLGfLJJ5AMHu8VRtiLj_ymbqeDxZIWAiKZyccMaTLfI4ssWM5LVmEIBenYqCQ3XJ_R_pTLqN6msxaPqovCq72VuGoYhyvdrzDB195PcfAH2R-czNNQ5Knzvoa03XaIkiSGdg1I_cIanOzpy12GshgqehaCmNjjkBes0_dNJFOmYwBCsA-RkK4g6kBU4botAE_MsXIUzFIdEqF1A2pMQfsEgTfQ75Yhb2dVjnDjAsSMGv5ezBk9Vi9HqDL4_liAczxl7T2Ju3D8J22VypQ7VjZh8BY-Qzmq9M8m-1mbm42c77XKXQKBQAH4sIAAAAAAAAAwMAAAAAAAAAAAA=)
+  - Currency aus: Synth, Guardian,etc Maps
+
+### Sonstige Heist-Pro-Tipps
+
+- Keine Smuggler’s Caches Quest-Items(Grün) aufsammeln, bringt nichts.
+- Kleine Chests für Gems sind in Patch 3.27 gebufft. Thratus Gems sind dort zu finden - ggf. gute Early Currency
+- Heist im Map Device kostet jetzt weniger (6 zu 5 Chaos).
+- Job XP entfernt; Blueprint werden vermutlich kleicht teurer, jedoch ist Rogue Gear leichter zu craften (Jobspeed!)
+
+## Wertvollste Replica Items & Preise (PoE 3.26)
 
 | Item                    | Typ            | Early-League Preis   | Mid/End-League Preis |
 |-------------------------|----------------|----------------------|----------------------|
@@ -332,7 +399,7 @@ Wenn du eine **perfekte Suche** auf der Trade-Seite eingestellt hast (z.B. mit s
 3. Als Lesezeichen/Bookmark speichern
 
 Der **Hash bleibt permanent** und lädt genau deine Suche, auch Wochen später!
-## Videos
+## Video-Quellen
 
 **Heist Guide 3.27**
 ```embed
@@ -340,6 +407,16 @@ title: "COMPLETE Heist Guide & New TECH - Path of Exile 3.27 Keepers of the Flam
 image: "https://i.ytimg.com/vi/kAzxb1wAApA/maxresdefault.jpg"
 description: "👉 *If you enjoy this video, please Like & Subscribe!*  ### 🛒 *My Nexus Store*Support me directly by checking out my game picks here:🔗 (https://www.nexus.g..."
 url: "https://www.youtube.com/watch?v=kAzxb1wAApA"
+favicon: ""
+aspectRatio: "56.25"
+```
+
+**Fortführender Guide und Leaguestart**
+```embed
+title: "Heist League Start 3.27 — Fast Currency Setup & Strategy   Keepers of the Flame [PoE]"
+image: "https://i.ytimg.com/vi/RHXWo6BcBgc/maxresdefault.jpg"
+description: "👉 *If you enjoy this video, please Like & Subscribe!*  Welcome back Exiles! In this video, we’re diving deep into one of the best early league strategies in..."
+url: "https://www.youtube.com/watch?v=RHXWo6BcBgc"
 favicon: ""
 aspectRatio: "56.25"
 ```
@@ -353,6 +430,10 @@ url: "https://www.youtube.com/watch?v=xBwlF3CQvtI"
 favicon: ""
 aspectRatio: "56.25"
 ```
+
+
+
+
 
 
 
