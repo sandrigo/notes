@@ -1,5 +1,5 @@
 ---
-title: Overview | Claude
+title: Claude
 source: https://claude.com/product/overview
 author:
   - "[[@claudeai|@claudeai]]"
