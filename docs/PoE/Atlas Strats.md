@@ -2,8 +2,7 @@
 cat: PoE
 share: true
 ---
-
-**Earlygame**
+## Earlygame
 ===============
 
 ### Alch n Go Betrayal/Settlers/Eagon Rush 3-in-1
@@ -20,7 +19,7 @@ share: true
  + Settlers: Svalinn-Crater Hunting, Lost Shipments für raw Currency, teure Tattoos etc
 * Investition: 0-1c für den Scarab, sehr günstig, hohe Menge ist das Ziel, High Value Drops: Safehouses Allflames für Scarab oder Goldfarm, Syndicate Medallion (Katarina Fight, potentielle Big Tickets oder direkter Sale), Svalinn-Potential durch viele Crater dank Settlers, High Value Tattoos und Raw Currency durch Settlers.
 
-**Woche 1**
+## Woche 1
 ==========
 
 ### Maven Deli Mirror Guardian Rotas
@@ -66,7 +65,7 @@ share: true
  + Strongboxen öffnen und Monster killen. Gute Strongboxen: Arcanist, Diviner, Ornate - Containment: Alle Packs sind in Strongboxen eingesperrt, 30+ Strongboxen öffnen. Wichtig in T17: Boss killen für Fragmente, beste Maps: Abomination, Ziggurat, Sanctuary (Uber Maven/Eater Fragmente)
 * Investition: Hoher Invest, Containment Scarab oft 1-2 Div pro Stück, Maps ggf. teurer, T17 je nach Map teurer, zahlt sich aber aus da 30-40 Strongboxen, öfter "an der Slotmachine ziehen" - idR. wird der Invest "verdoppelt" mit Chancen auf Big Tickets durch Divination Cards, Double Divines, Double Valdos etc.
 
-**Weitere Strategien**
+## Weitere Strategien
 =====================
 
 https://www.poe-vault.com/guides/pathofevening-guide-hub
