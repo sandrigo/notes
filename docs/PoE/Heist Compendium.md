@@ -33,9 +33,14 @@ Nachteil: 20% Nerf in 3.27
 
 ## Leveling Toxic Rain / Caustic Arrow Pathfinder (Ranger)
 
+
+Guide: https://youtu.be/_8qqZQLIM7U +POB
+
 POB: [https://pobb.in/ifBRVABpy8_f](https://pobb.in/ifBRVABpy8_f)
 Vorteil: Schnell, versatil, guter Clear, Bow Playstyle
 Nachteil: schlecht Closerange dmg, low EHP, Später schneller Dmg Falloff, ggf Manaprobleme wegen MF-Arrow
+
+Später: https://youtu.be/7upiMqBMOP0 
 ## Alternative: Banner Champion (Duelist)
 
 POB: [https://pobb.in/8MVYTVDlW2LU](https://pobb.in/8MVYTVDlW2LU) - Toxic Rain CA bis 71, Swap zu Banner
